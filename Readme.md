@@ -1,8 +1,14 @@
 # My resume
 
-_or at least the source of it_
+or at least the source of it, based on [hackmyresume](https://github.com/hacksalot/HackMyResume)
 
+## How to build
 
-## How to run
+```bash
+yarn
+yarn build
+```
 
-based on `hackmyresume`
+## PDF version
+
+Run `yarn open` and print from a browser
