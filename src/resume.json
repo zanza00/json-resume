@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Simone Picciani",
+    "label": "Developer",
+    "picture": "photo.jpg",
+    "email": "simone.picciani@gmail.com",
+    "phone": "+39 349 2190062",
+    "website": "http://zanzapla.net/",
+    "summary": "Developer with 2+ years of experience using various tecnologies, I started more as a Help Desk \\ System Administrator figure and gradually moved to a Full Stack Developer first and later as a Front End one. Seeking to grow as a BackEnd Developer using Scala",
+    "location": {
+      "address": "Via Soperga 52",
+      "postalCode": "20127",
+      "city": "Milano",
+      "countryCode": "IT",
+      "region": "Lombardia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@zanza00",
+        "url": "https://twitter.com/Zanza00"
+      },
+      {
+        "network": "GitHub",
+        "username": "zanza00",
+        "url": "https://github.com/zanza00"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Spindox s.p.a.",
+      "position": "Developer",
+      "website": "https://www.spindox.it/",
+      "startDate": "2014-01-01",
+      "endDate": "Present",
+      "summary": "Started as Help Desk figure for a Multinational Corporation and successfully transitioned to a developer role. As a Developer I worked on Java projects (Spring, Akka), on hybrid apps (Cordova, Ionic 2) and pure frontend (Mithril, React).",
+      "highlights": [
+        "Create and develop two hybrid apps and one mobile sites using React Web, modified existing Cordova plugins for better handle the specific scenarios requested by the client",
+        "Realized AEM components, using Mithril and Java, for an international site.",
+        "Helped to create a multitude of different applications using Ionic 2, targeting challenging environments with a strict timetable.",
+        "Realized a Dashboard focused on production defects, using interactive charts. Created a custom parser for data ingestion in Scala"
+      ]
+    },
+    {
+      "company": "TheSax s.r.l.",
+      "position": "CED office at Clinica San Carlo, Istituto Auxologico Italiano",
+      "startDate": "2011-11-01",
+      "endDate": "2013-07-31",
+      "summary": "Classic Help Desk figure in a medical clinic. Also, assisted in the migration of IT to Istituto Auxologico Italiano's standards. This position was held in conjunction with the part time of Studio Serra.",
+      "highlights": [
+        "Installation of Windows 7 on over 250 machines with creation of Python script to automate deploy and installation of custom medical software.",
+        "Maintainer for a custom queue manager based on a Linux box."
+      ]
+    },
+    {
+      "company": "Studio Serra s.r.l.",
+      "position": "Responsabile of IT systems / Secretary",
+      "startDate": "2009-01-01",
+      "endDate": "2013-12-28",
+      "summary": "Hired by a small family business as an IT technician. The main purpose was to upgrade the IT infrastructure and digitize paper documents. In September 2011 the role was downsized to part time and then gradually shifted to secretary activity.",
+      "highlights": [
+        "Automatized procedure for importing and OCR of scanned documents.",
+        "Created a vote counting software to use during condominium meetings."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Python Milano",
+      "position": "Organizer",
+      "website": "http://milano.python.it",
+      "startDate": "2015-01-01",
+      "endDate": "Present",
+      "summary": "Organizer and support logistics for Python Milano's Meetups.",
+      "highlights": [
+        "Created first iteration of 'PyGlialo', a software written completely in Python for the extraction of the various random prizes.",
+        "Implemented site's graphic."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università Bicocca",
+      "area": "Faculty of Computer Science",
+      "studyType": "",
+      "startDate": "2006-10-01",
+      "endDate": "2009-07-31",
+      "gpa": "Did Not Finish."
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Competent",
+      "keywords": [
+        "Typescript",
+        "ES2015+",
+        "SASS",
+        "React",
+        "Angular 2+"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Competent",
+      "keywords": [
+        "Spring",
+        "Hibernate",
+        "Excel",
+        "Weblogic",
+        "Akka"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Early",
+      "keywords": [
+        "Oracle",
+        "Oracle Analytics",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Early",
+      "keywords": [
+        "Python 3",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Scala",
+      "level": "Beginner",
+      "keywords": [
+        "Functional Programming"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (C1 equivalent)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bicycle"
+    },
+    {
+      "name": "Scala"
+    },
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Comic Books"
+    },
+    {
+      "name": "Technology Gadgets"
+    },
+    {
+      "name": "Video Games"
+    }
+  ]
+}

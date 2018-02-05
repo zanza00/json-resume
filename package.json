@@ -1,0 +1,24 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "the source for my resume",
+  "main": "index.js",
+  "dependencies": {
+    "cpr": "^3.0.1",
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-flat-optimized": "^0.0.2",
+    "jsonresume-theme-material": "^1.1.2",
+    "jsonresume-theme-paper-condensed": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:resume && npm run copy:photo",
+    "copy:photo" : "cpr ./src/photo.jpg ./out/photo.jpg --overwrite",
+    "build:resume": "hackmyresume BUILD src/resume.json TO out/resume.all -t node_modules/jsonresume-theme-paper-condensed",
+    "print": "echo print from a browser && open out/resume.pdf.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
