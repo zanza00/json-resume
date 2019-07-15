@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Simone Picciani",
-    "label": "Developer",
+    "label": "Developer/Software Engineer",
     "picture": "photo.jpg",
     "email": "simone.picciani@gmail.com",
     "phone": "+39 349 2190062",
@@ -94,14 +94,26 @@
     },
     {
       "organization": "Milano TS",
-      "position": "Organizer",
+      "position": "Assistant Organizer",
       "website": "https://www.meetup.com/MilanoTS/",
       "startDate": "2018-06-01",
       "endDate": "Present",
       "summary": "Organizer and support logistics for Milano TS' Meetups.",
       "highlights": [
-        "Created first iteration of 'PyGlialo', a software written completely in Python for the extraction of the various random prizes.",
-        "Implemented site's graphic."
+        "Created the Trello board for organizing the next talks.",
+        "Helped with logistic for youtube live and the location itself."
+      ]
+    },
+    {
+      "organization": "Milano JS",
+      "position": "Assistant Organizer",
+      "website": "https://milanojs.com/",
+      "startDate": "2017-01-01",
+      "endDate": "Present",
+      "summary": "Support logistics for Milano JS' Meetups.",
+      "highlights": [
+        "Slack Moderator for ItaliaJS slack",
+        "Helper for logistics of the various meetups"
       ]
     }
   ],
@@ -117,50 +129,39 @@
   ],
   "skills": [
     {
+      "name": "TypeScript",
+      "level": "Competent",
+      "keywords": ["React", "React Native", "Functional Programming", "NodeJS"]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Competent",
+      "keywords": ["PostgreSQL", "Functional Programming"]
+    },
+    {
       "name": "JavaScript",
       "level": "Competent",
-      "keywords": [
-        "Typescript",
-        "ES2015+",
-        "SASS",
-        "React",
-        "React Native"
-      ]
+      "keywords": ["ES2015+", "SASS", "React", "React Native"]
     },
     {
       "name": "Java",
       "level": "Competent",
-      "keywords": [
-        "Spring",
-        "Hibernate",
-        "Excel",
-        "Weblogic",
-        "Akka"
-      ]
+      "keywords": ["Spring", "Hibernate", "Excel", "Weblogic", "Akka"]
     },
     {
       "name": "Databases",
       "level": "Competent",
-      "keywords": [
-        "Oracle",
-        "Oracle Analytics",
-        "PostgreSQL"
-      ]
+      "keywords": ["Oracle", "Oracle Analytics", "PostgreSQL"]
     },
     {
       "name": "Python",
       "level": "Early",
-      "keywords": [
-        "Python 3",
-        "Flask"
-      ]
+      "keywords": ["Python 3", "Flask"]
     },
     {
       "name": "Scala",
-      "level": "Beginner",
-      "keywords": [
-        "Functional Programming"
-      ]
+      "level": "Early",
+      "keywords": ["Functional Programming"]
     }
   ],
   "languages": [
