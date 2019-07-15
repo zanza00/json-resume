@@ -6,7 +6,7 @@
     "email": "simone.picciani@gmail.com",
     "phone": "+39 349 2190062",
     "website": "http://zanzapla.net/",
-    "summary": "Developer with 2+ years of experience using various tecnologies, I started more as a Help Desk \\ System Administrator figure and gradually moved to a Full Stack Developer first and later as a Front End one. Seeking to grow as a BackEnd Developer using Scala",
+    "summary": "Developer with 4+ years of experience using various tecnologies, I started more as a Help Desk \\ System Administrator figure and gradually moved to a Full Stack Developer with emphasys on Frontend work. Seeking to grow as a BackEnd Developer",
     "location": {
       "address": "Via Soperga 52",
       "postalCode": "20127",
@@ -29,14 +29,28 @@
   },
   "work": [
     {
+      "company": "buildo s.r.l.",
+      "position": "Software Engineer",
+      "website": "https://buildo.io/",
+      "startDate": "2018-05-07",
+      "endDate": "2019-07-19",
+      "summary": "Full stack software engineer using Scala as a backend language and Typescript as a fullstack language with experience with Docker, Docker Compose, Concourse CI, Terraform and AWS",
+      "highlights": [
+        "Helped to create a React Native app that needed to interface with custom RFID hardware. Managed and assisted the outsourced translation team.",
+        "Created a Typescript + NodeJS backend with PostgreSQL as Database that ingested various heterogenous data and exposes a CQRS API endpoints for data. Wrote the CI pipeline for deploying on AWS.",
+        "Converted a codebase from Scala to Typescript + NodeJS targeting the same PostgreSQL database and exposing the same Web API, also rewrote the whole build and test pipeline to accomodate the new build.",
+        "Helped to integrate an existing Typescript + NodeJS into a custom platform: added support for Single Sign On, integrate product build to the custom platform using Terraform."
+      ]
+    },
+    {
       "company": "Spindox s.p.a.",
       "position": "Developer",
       "website": "https://www.spindox.it/",
       "startDate": "2014-01-01",
-      "endDate": "Present",
+      "endDate": "2018-05-04",
       "summary": "Started as Help Desk figure for a Multinational Corporation and successfully transitioned to a developer role. As a Developer I worked on Java projects (Spring, Akka), on hybrid apps (Cordova, Ionic 2) and pure frontend (Mithril, React).",
       "highlights": [
-        "Create and develop two hybrid apps and one mobile sites using React Web, modified existing Cordova plugins for better handle the specific scenarios requested by the client",
+        "Create and develop two hybrid apps and one mobile sites using React Web, modified existing Cordova plugins for better handling the specific scenarios requested by the client",
         "Realized AEM components, using Mithril and Java, for an international site.",
         "Helped to create a multitude of different applications using Ionic 2, targeting challenging environments with a strict timetable.",
         "Realized a Dashboard focused on production defects, using interactive charts. Created a custom parser for data ingestion in Scala"
@@ -77,6 +91,18 @@
         "Created first iteration of 'PyGlialo', a software written completely in Python for the extraction of the various random prizes.",
         "Implemented site's graphic."
       ]
+    },
+    {
+      "organization": "Milano TS",
+      "position": "Organizer",
+      "website": "https://www.meetup.com/MilanoTS/",
+      "startDate": "2018-06-01",
+      "endDate": "Present",
+      "summary": "Organizer and support logistics for Milano TS' Meetups.",
+      "highlights": [
+        "Created first iteration of 'PyGlialo', a software written completely in Python for the extraction of the various random prizes.",
+        "Implemented site's graphic."
+      ]
     }
   ],
   "education": [
@@ -98,7 +124,7 @@
         "ES2015+",
         "SASS",
         "React",
-        "Angular 2+"
+        "React Native"
       ]
     },
     {
@@ -114,7 +140,7 @@
     },
     {
       "name": "Databases",
-      "level": "Early",
+      "level": "Competent",
       "keywords": [
         "Oracle",
         "Oracle Analytics",
@@ -150,9 +176,6 @@
   "interests": [
     {
       "name": "Bicycle"
-    },
-    {
-      "name": "Scala"
     },
     {
       "name": "Movies"
