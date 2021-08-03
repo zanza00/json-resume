@@ -6,7 +6,7 @@
     "email": "simone.picciani@gmail.com",
     "phone": "+39 349 2190062",
     "website": "http://zanzapla.net/",
-    "summary": "Developer with 4+ years of experience using various tecnologies, I started more as a Help Desk \\ System Administrator figure and gradually moved to a Full Stack Developer with emphasys on Frontend work. Seeking to grow as a BackEnd Developer",
+    "summary": "Developer with 5+ years of experience using various technologies, I started more as a Help Desk \\ System Administrator figure and gradually moved to a Full Stack Developer. My emphasis is the Frontend, with a strong focus on architectural choices.",
     "location": {
       "address": "Via Soperga 52",
       "postalCode": "20127",
@@ -28,6 +28,22 @@
     ]
   },
   "work": [
+    {
+      "company": "Cuebiq s.r.l.",
+      "position": "Frontend Architect",
+      "website": "https://www.cuebiq.com/",
+      "startDate": "2019-09-09",
+      "endDate": "Present",
+      "summary": "Frontend architect that can badly handle everything from CSS to k8s.",
+      "highlights": [
+        "Maintain and evolve an Express server, written in typescript, that serves the frontend. It also uses virtual services as proxies for the various microservices.",
+        "Migrated the custom micro frontend architecture to using personalized single-spa modules. Responsible for the functioning of over 15 micro frontends.",
+        "Created and maintains specific libraries for network requests, permission enforcing, jsonschema forms, tracking, error logging, and various utilities.",
+        "Maintain Travis CI/CD for frontend projects, with auto-deploy and scripts for promoting between environments.",
+        "Help to maintain two instances of Oauth2 Proxy and Keycloack for user authentication.",
+        "Help to maintain a custom CLI made to automate boring stuff in the CI/CD environment."
+      ]
+    },
     {
       "company": "buildo s.r.l.",
       "position": "Software Engineer",
@@ -61,22 +77,14 @@
       "position": "CED office at Clinica San Carlo, Istituto Auxologico Italiano",
       "startDate": "2011-11-01",
       "endDate": "2013-07-31",
-      "summary": "Classic Help Desk figure in a medical clinic. Also, assisted in the migration of IT to Istituto Auxologico Italiano's standards. This position was held in conjunction with the part time of Studio Serra.",
-      "highlights": [
-        "Installation of Windows 7 on over 250 machines with creation of Python script to automate deploy and installation of custom medical software.",
-        "Maintainer for a custom queue manager based on a Linux box."
-      ]
+      "summary": "Classic Help Desk figure in a medical clinic. Also, assisted in the migration of IT to Istituto Auxologico Italiano's standards. This position was held in conjunction with the part time of Studio Serra."
     },
     {
       "company": "Studio Serra s.r.l.",
       "position": "Responsabile of IT systems / Secretary",
       "startDate": "2009-01-01",
       "endDate": "2013-12-28",
-      "summary": "Hired by a small family business as an IT technician. The main purpose was to upgrade the IT infrastructure and digitize paper documents. In September 2011 the role was downsized to part time and then gradually shifted to secretary activity.",
-      "highlights": [
-        "Automatized procedure for importing and OCR of scanned documents.",
-        "Created a vote counting software to use during condominium meetings."
-      ]
+      "summary": "Hired by a small family business as an IT technician. The main purpose was to upgrade the IT infrastructure and digitize paper documents. In September 2011 the role was downsized to part time and then gradually shifted to secretary activity."
     }
   ],
   "volunteer": [
@@ -98,11 +106,7 @@
       "website": "https://www.meetup.com/MilanoTS/",
       "startDate": "2018-06-01",
       "endDate": "Present",
-      "summary": "Organizer and support logistics for Milano TS' Meetups.",
-      "highlights": [
-        "Created the Trello board for organizing the next talks.",
-        "Helped with logistic for youtube live and the location itself."
-      ]
+      "summary": "Organizer and support logistics for Milano TS' Meetups."
     },
     {
       "organization": "Milano JS",
@@ -112,7 +116,7 @@
       "endDate": "Present",
       "summary": "Support logistics for Milano JS' Meetups.",
       "highlights": [
-        "Slack Moderator for ItaliaJS slack",
+        "Admin for ItaliaJS Discord",
         "Helper for logistics of the various meetups"
       ]
     }
@@ -131,12 +135,12 @@
     {
       "name": "TypeScript",
       "level": "Competent",
-      "keywords": ["React", "React Native", "Functional Programming", "NodeJS"]
+      "keywords": ["React", "Functional Programming", "NodeJS"]
     },
     {
       "name": "NodeJS",
       "level": "Competent",
-      "keywords": ["PostgreSQL", "Functional Programming"]
+      "keywords": ["Express", "PostgreSQL", "Functional Programming"]
     },
     {
       "name": "JavaScript",
@@ -144,24 +148,9 @@
       "keywords": ["ES2015+", "SASS", "React", "React Native"]
     },
     {
-      "name": "Java",
-      "level": "Competent",
-      "keywords": ["Spring", "Hibernate", "Excel", "Weblogic", "Akka"]
-    },
-    {
-      "name": "Databases",
-      "level": "Competent",
-      "keywords": ["Oracle", "Oracle Analytics", "PostgreSQL"]
-    },
-    {
-      "name": "Python",
+      "name": "Kubernetes",
       "level": "Early",
-      "keywords": ["Python 3", "Flask"]
-    },
-    {
-      "name": "Scala",
-      "level": "Early",
-      "keywords": ["Functional Programming"]
+      "keywords": ["kubectl", "Helm"]
     }
   ],
   "languages": [
