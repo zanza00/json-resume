@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cpr": "^3.0.1",
-    "hackmyresume": "^1.8.0",
+    "hackmyresume": "^1.9.0-beta",
     "jsonresume-theme-flat": "^0.3.7",
     "jsonresume-theme-flat-optimized": "^0.0.2",
     "jsonresume-theme-material": "^1.1.2",
